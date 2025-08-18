@@ -4,3 +4,6 @@
 [submodule "dependencies/union/gothic-api"]
 	path = dependencies/union/gothic-api
 	url = https://gitlab.com/union-framework/gothic-api.git
+[submodule "src/Utils/zDUtils"]
+	path = src/Utils/zDUtils
+	url = https://github.com/Doick-Union-Workshop/zDUtils.git

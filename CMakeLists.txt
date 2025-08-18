@@ -14,7 +14,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 file(GLOB_RECURSE SRC
-    "src/*.cpp"
+    "src/**.cpp"
 )
 
 add_library(${CMAKE_PROJECT_NAME} SHARED)
