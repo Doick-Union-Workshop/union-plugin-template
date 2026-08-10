@@ -1,5 +1,6 @@
 #include <Union/Hook.h>
 #include <ZenGin/zGothicAPI.h>
+#include "Utils/zDUtils/Logger/Logger.h"
 
 #ifdef __@PlatformSuffix@
 #define GOTHIC_NAMESPACE @GothicNamespace@
